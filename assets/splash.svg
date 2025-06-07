@@ -1,0 +1,19 @@
+<svg width="1242" height="2436" viewBox="0 0 1242 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1242" height="2436" fill="#4CAF50"/>
+  
+  <!-- Logo Container -->
+  <g transform="translate(321, 1018)">
+    <!-- Plate/Circle -->
+    <circle cx="300" cy="300" r="250" fill="white"/>
+    
+    <!-- Fork -->
+    <path d="M200 150C200 150 200 250 200 300C200 350 250 400 300 400C350 400 400 350 400 300C400 250 400 150 400 150" stroke="#4CAF50" stroke-width="30" stroke-linecap="round"/>
+    
+    <!-- Heart -->
+    <path d="M300 450C300 450 400 350 450 300C500 250 450 150 350 150C300 150 300 200 300 250C300 200 300 150 250 150C150 150 100 250 150 300C200 350 300 450 300 450Z" fill="#4CAF50"/>
+  </g>
+  
+  <!-- App Name -->
+  <text x="621" y="1718" text-anchor="middle" font-family="Arial" font-size="72" font-weight="bold" fill="white">BiteBack</text>
+</svg>

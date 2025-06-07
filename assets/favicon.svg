@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" fill="#4CAF50"/>
+  
+  <!-- Plate/Circle -->
+  <circle cx="32" cy="32" r="25" fill="white"/>
+  
+  <!-- Fork -->
+  <path d="M22 19C22 19 22 29 22 32C22 35 25 38 28 38C31 38 34 35 34 32C34 29 34 19 34 19" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Heart -->
+  <path d="M32 44C32 44 42 38 44 32C46 26 44 19 38 19C35 19 32 22 32 25C32 22 29 19 26 19C20 19 18 26 20 32C22 38 32 44 32 44Z" fill="#4CAF50"/>
+</svg>
